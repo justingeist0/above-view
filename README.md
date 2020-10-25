@@ -1,2 +1,2 @@
 # above-view
-Move Map to Above Location of Device
+This is a sample on getting permissions and moving a map to devices location.

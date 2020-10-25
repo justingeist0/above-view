@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Above View</string>
+    <string name="location_disabled">Unable to retrieve your location.</string>
+</resources>
